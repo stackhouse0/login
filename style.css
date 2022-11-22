@@ -1,0 +1,58 @@
+body{
+    background-color: #ededed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    width: 400px;
+    height: 320px;
+    background-color: white;
+    margin-top: 100px;
+}
+
+.containers{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    margin-top: 100px;
+}
+
+ h1{
+    text-align: center;
+}
+
+.inputDiv{
+margin: 20px 35px;
+
+    
+}
+
+.inputDiv label {
+    font-size: 22px;
+}
+
+.inputDiv input {
+    padding: 13px 5px;
+    width: 100%;
+}
+
+.inputDiv input:hover {
+border: 1px solid lightblue;
+}
+
+.btn input{
+    margin: 5px 30px;
+    padding: 13px 5px;
+    background-color: darkslateblue;
+    width: 87%;
+    color: #ffff;
+    border: 0;
+    cursor: pointer;
+}
+
+.option{
+    margin-top: 2px auto ;
+    text-align: center;
+}
